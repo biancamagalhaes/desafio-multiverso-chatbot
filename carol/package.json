@@ -1,0 +1,28 @@
+{
+  "name": "antiope",
+  "version": "1.0.0",
+  "description": "Quarta tentativa",
+  "main": "index.js",
+  "scripts": {
+    "test": "nuncaDesisto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biancamagalhaes/antiope.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "bianca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biancamagalhaes/antiope/issues"
+  },
+  "homepage": "https://github.com/biancamagalhaes/antiope#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "watson-developer-cloud": "^3.13.0"
+  }
+}
